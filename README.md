@@ -54,3 +54,14 @@ Router --> |LAN4| Printer
 imagem da topologia utilizada no laboratório:
 
 ![](topologia.png)
+
+---
+
+## 4. plano de endereçamento de IP
+
+rede: 192.168.0.0/24
+Gateway: 192.168.0.1
+
+| dipostivo | tipo de IP | Endereço de ip | osbervação |
+|-------------|-------------|-------------|-------------|
+| roteador | estático | 192.168.0.1 |  IP do roteador|   
