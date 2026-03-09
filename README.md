@@ -99,6 +99,6 @@ etapas realizadas:
  - Utilizição de um roteador com porta WAN e portas LAN
  - Funcionamento do DHCP
  - Comunicação entre dipostivos na rede local
- - ultilização de uma impressora de rede
+ - Ultilização de uma impressora de rede
  - Compartilhamento de pastas
 
