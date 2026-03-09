@@ -29,3 +29,21 @@ projeto será realizado em duas etapas:
 -   cabos de rede
  
   ---
+
+## Topologia de rede
+Diagrama lógico da rede utilizada neste laboratorio:
+
+```mermaid
+graph TD
+
+wan[internet / wan do provedor]
+
+Router[Roteador wireless<br>1 portas WAN<br> 4 portas LAN]
+
+PC1[Notebook]
+PC2[Notebook]
+PC3[Notebook]
+
+Printer[Impressora de Rede]
+
+```
