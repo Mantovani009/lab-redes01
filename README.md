@@ -83,5 +83,15 @@ Após a instalação, a rede foi montada fisicamente no laboratório
 
 etapas realizadas:
 
+fiz o compartilhamento das pastas
+
+ajudei na parte da impressão do papel
+
+ajudei a documentar
+
+testei a conexão da rede 
+
+
+
 
  
