@@ -43,7 +43,11 @@ Router[Roteador wireless<br>1 portas WAN<br> 4 portas LAN]
 PC1[Notebook]
 PC2[Notebook]
 PC3[Notebook]
-
 Printer[Impressora de Rede]
+WAN -->|Porta WAN|Router
 
+Router --> |LAN1| PC1
+Router --> |LAN2| PC2
+Router --> |LAN3| PC3
+Router --> |LAN4| Printer
 ```
