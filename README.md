@@ -64,4 +64,24 @@ Gateway: 192.168.0.1
 
 | dipostivo | tipo de IP | Endereço de ip | osbervação |
 |-------------|-------------|-------------|-------------|
-| roteador | estático | 192.168.0.1 |  IP do roteador|   
+| roteador | estático | 192.168.0.1 |  IP do roteador|
+| pc1 | reserva de DHCP | 192.168.0.101| IP reservado pelo roteador|
+| pc2 | DHCP| Automatico | IP automatico atíbuido pelo roteador|
+| pc3 | DHCP | automatico | IP atribuido pelo roteador
+| impressora| DHCP| automatico| IP atribuido pelo roteador|
+
+**Observação**
+
+- A impressora e um dos notebooks utilizam reserva DHCP
+- o roteador sempre atribui o mesmo endereço IP a esses dispostivos
+
+ ---
+
+## 5. Implementação no laboratório Real
+
+Após a instalação, a rede foi montada fisicamente no laboratório
+
+etapas realizadas:
+
+
+ 
