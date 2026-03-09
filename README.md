@@ -91,7 +91,14 @@ etapas realizadas:
 
 - testei a conexão da rede 
 
+## 6. conclusão 
 
+ este laboratório permitiu compreender o funcionamento de uma rede local simples, incluindo
 
+ - Estrtura d uma rede domestica ou de um pequeno escritorio
+ - Utilizição de um roteador com porta WAN e portas LAN
+ - Funcionamento do DHCP
+ - Comunicação entre dipostivos na rede local
+ - ultilização de uma impressora de rede
+ - Compartilhamento de pastas
 
- 
