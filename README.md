@@ -51,4 +51,4 @@ Router --> |LAN2| PC2
 Router --> |LAN3| PC3
 Router --> |LAN4| Printer
 ```
-<img width="579" height="608" alt="Captura de tela 2026-03-09 152339" src="https://github.com/user-attachments/assets/66fedf2b-ff42-4523-89d6-f603a8119792" />
+
